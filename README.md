@@ -1,5 +1,10 @@
+## 私
 
-Software Engineer
+- Software Engineer
 
-資格
-    基本情報技術者
+- 資格
+  - 基本情報技術者
+
+## 外部リンク
+
+- X.com (@phihash)
