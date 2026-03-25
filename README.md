@@ -7,4 +7,4 @@
 
 ## 外部リンク
 
-- X.com (@phihash)
+- X.com ([@phihash](https://x.com/phihash))
